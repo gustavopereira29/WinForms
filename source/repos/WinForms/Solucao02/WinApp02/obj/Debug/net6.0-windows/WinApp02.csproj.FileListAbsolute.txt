@@ -1,0 +1,17 @@
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\bin\Debug\net6.0-windows\WinApp02.exe
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\bin\Debug\net6.0-windows\WinApp02.deps.json
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\bin\Debug\net6.0-windows\WinApp02.runtimeconfig.json
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\bin\Debug\net6.0-windows\WinApp02.dll
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\bin\Debug\net6.0-windows\WinApp02.pdb
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.Form1.resources
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.AssemblyInfo.cs
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.dll
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\refint\WinApp02.dll
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.pdb
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\WinApp02.genruntimeconfig.cache
+C:\Users\gusta\source\repos\WinForms\Solucao02\WinApp02\obj\Debug\net6.0-windows\ref\WinApp02.dll
