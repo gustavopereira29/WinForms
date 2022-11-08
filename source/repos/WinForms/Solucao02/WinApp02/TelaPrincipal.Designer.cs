@@ -1,6 +1,6 @@
 ﻿namespace WinApp02
 {
-    partial class Form1
+    partial class TelaPrincipal
     {
         /// <summary>
         ///  Required designer variable.
